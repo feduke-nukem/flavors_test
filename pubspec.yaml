@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  images:
+    path: packages/images  
 
 dev_dependencies:
   flutter_test:
